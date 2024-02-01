@@ -1,4 +1,4 @@
-// Exercise 02: RNGolf
+// Code Practice: RNGolf
 // Name:
 // Date:
 
