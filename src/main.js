@@ -1,5 +1,5 @@
 // Code Practice: RNGolf
-// Name:
+// Name: 
 // Date:
 
 'use strict'
